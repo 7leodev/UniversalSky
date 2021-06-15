@@ -10,6 +10,9 @@ Dynamic skydome and ToD plugin for godot engine.
 > Beta3.
 ------------------------------------
 
+## Clone:
+> git clone --single-branch --branch beta3 https://github.com/7leodev/TimeOfDay.git
+
 ## Reflections:
 > Optimal reflections are possible with a well-configured reflection probe. 
 ------------------------------------
